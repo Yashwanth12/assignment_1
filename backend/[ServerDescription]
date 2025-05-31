@@ -1,0 +1,4 @@
+Server is with Simple routing, model, and controller.
+Node Js version - 14
+Mongo DB version - 6
+package.json file will hold the mongo, express and other libraries versions. 

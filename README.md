@@ -34,5 +34,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 Backend Project have a server description file for simple guidelines.
-
-Front end built on material UI design.
